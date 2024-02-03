@@ -1,0 +1,20 @@
+[20240203-14:17:14] [CORE ] main: app started pid 2800(0x00000af0)
+[20240203-14:17:14] [INFO ] main: DISPLAY env var set to :10.0
+[20240203-14:17:14] [INFO ] main: using DISPLAY 10
+[20240203-14:17:14] [INFO ] channel_thread_loop: thread start
+[20240203-14:17:14] [INFO ] Socket 12: AF_UNIX connection received
+[20240203-14:56:34] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-14:56:46] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-14:56:59] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-15:14:14] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-15:18:36] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-15:19:51] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-15:29:25] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20240203-15:30:40] [INFO ] Socket 12: AF_UNIX connection received
+[20240203-15:59:28] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20240203-15:59:28] [INFO ] Socket 12: AF_UNIX connection received
+[20240203-16:09:52] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-16:10:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-16:10:24] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-16:15:41] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20240203-16:15:52] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8

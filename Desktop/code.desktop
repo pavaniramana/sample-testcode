@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-SnapInstanceName=code
+Name=Visual Studio Code
+Comment=Code Editing. Redefined.
+NoDisplay=false
+GenericName=Text Editor
+Exec=/snap/bin/code
+Icon=/opt/vscode/vscode.png
+Type=Application
+StartupNotify=false
+StartupWMClass=code
+Categories=Utility;TextEditor;Development;IDE;
+MimeType=text/plain;inode/directory;application/x-code-workspace;
+Keywords=vscode;
